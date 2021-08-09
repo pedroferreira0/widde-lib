@@ -3,10 +3,8 @@
 
 ## Instalação
 
-Para instalar o plugin da Widde no seu sistema é simples: basta adicionar o arquivo javascript em seu public.
+Para instalar o plugin da Widde no seu sistema é simples: basta adicionar o arquivo javascript em seu html.
 
-
-Install the dependencies and devDependencies and start the server.
 
 ```html
 <script src"https://cdn.widde.io/widde-lib-1.0.0.js"><script/>
