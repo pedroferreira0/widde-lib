@@ -1,7 +1,7 @@
 # Widde API
 
 
-[![Widde Logo](https://cdn.discordapp.com/attachments/802325339195441152/874334443106627675/Captura_de_Tela_2021-08-09_as_13.52.38.png)](https://widde.io)
+[![Widde Logo](https://cdn.discordapp.com/attachments/802325339195441152/874339242417987664/Group_584_1.png)](https://widde.io)
 
 ## Instalação
 
